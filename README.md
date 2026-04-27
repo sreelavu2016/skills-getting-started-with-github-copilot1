@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 Congratulations sreelavu2016! 🎉
+# 🎉 Congratulations Sreenivasulu Reddy Kummathala 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
